@@ -1,1 +1,1 @@
-# Samsung-Coding-TEST
+# Coding-TEST
